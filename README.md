@@ -1,9 +1,8 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+![azure](https://github.com/kmoore848623/Azure-VM/assets/157086384/a201ff6e-e2fd-45c6-b406-224fb500be67)
+
 
 <h1>Microsoft Azure</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+Azure, Microsoft's cloud computing platform and online portal, offers access to a range of cloud services and resources. With just an internet connection and access to the Azure portal, you can manage and utilize these resources. This tutorial will outline the steps to create and set up a virtual machine.<br />
 
 
 
